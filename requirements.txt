@@ -1,1 +1,6 @@
-requests==2.25.1
+# setup
+setuptools==58.0.0
+
+# install
+fiona==1.9.5
+tensorrt==8.6.0
